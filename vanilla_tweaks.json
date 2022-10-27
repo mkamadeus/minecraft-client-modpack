@@ -1,0 +1,67 @@
+{
+	"aesthetic": [
+		"SplashXpBottle",
+		"UniqueDyes",
+		"DifferentStems",
+		"WarmGlow"
+	],
+	"lower-and-sides": [
+		"LowerWarpedNylium",
+		"LowerPodzol",
+		"LowerSnow",
+		"LowerCrimsonNylium",
+		"LowerPaths",
+		"LowerMycelium",
+		"LowerGrass"
+	],
+	"variation": [
+		"VariatedBookshelves",
+		"VariatedPlanks",
+		"VariatedUnpolishedStones",
+		"VariatedStone",
+		"VariatedTerracotta",
+		"VariatedEndStone",
+		"VariatedGravel",
+		"VariatedBricks",
+		"VariatedDirt",
+		"RandomCoarseDirtRotation",
+		"VariatedCobblestone",
+		"RandomMossRotation"
+	],
+	"utility": [
+		"VisualSaplingGrowth",
+		"BrewingGuide",
+		"NoteblockBanners",
+		"GroovyLevers",
+		"VisualHoney",
+		"DirectionalDispensersDroppers",
+		"BetterObservers",
+		"DirectionalHoppers",
+		"StickyPistonSides",
+		"Age25Kelp",
+		"VisualWaxedCopperItems",
+		"VisualInfestedStoneItems",
+		"OreBorders",
+		"DiminishingTools"
+	],
+	"unobtrusive": [
+		"LowerShield",
+		"UnobtrusiveSnow",
+		"UnobtrusiveRain"
+	],
+	"3d": [
+		"3DDoors",
+		"3DStonecutters",
+		"3DTrapdoors",
+		"3DLadders",
+		"3DRails",
+		"3DIronBars",
+		"3DLilyPads"
+	],
+	"options-backgrounds": [
+		"ConcreteBlackBG"
+	],
+	"fun": [
+		"GreenAxolotl"
+	]
+}
