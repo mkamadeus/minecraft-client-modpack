@@ -1,13 +1,13 @@
 name = "Survival Essentials"
 author = "mkamadeus"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3b8a9fee1d2c6436b1f2f3dd3b07ba00ddba12cf9bb7e5db32a11071e7f2ef46"
+hash = "c8c75ad9acaaf442fb4217f7c4125789b82bf488596d3fde18cc74d5d260659f"
 
 [versions]
-fabric = "0.14.9"
-minecraft = "1.19.2"
+fabric = "0.14.12"
+minecraft = "1.19.3"

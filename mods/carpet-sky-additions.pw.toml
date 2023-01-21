@@ -1,0 +1,13 @@
+name = "Carpet Sky Additions"
+filename = "carpetskyadditions-1.19.3-4.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3oX3JnAP/versions/jLyFUqm8/carpetskyadditions-1.19.3-4.2.0.jar"
+hash-format = "sha1"
+hash = "236bd10b4a70e2b9d4cf09f0c9fce3963f6c6800"
+
+[update]
+[update.modrinth]
+mod-id = "3oX3JnAP"
+version = "jLyFUqm8"
